@@ -21,4 +21,13 @@ public class test2 {
 		System.out.println("bye");
 		
 	}
+
+@Test
+
+public void FifthTest()
+{
+	System.out.println("hi");
+	System.out.println("bye");
+	
+}
 }
