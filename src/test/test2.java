@@ -9,5 +9,6 @@ public class test2 {
 	public void ThridTest()
 	{
 		System.out.println("hi");
+		System.out.println("bye");
 	}
 }

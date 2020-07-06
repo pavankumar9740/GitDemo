@@ -18,6 +18,10 @@ public class test1 {
 		System.out.println("hello");
 		System.out.println("pavan");
 		System.out.println("bye!");
+		System.out.println("hello");
+		System.out.println("kumar");
+		System.out.println("bye!");
+		
 	}
 	
 	@Test
