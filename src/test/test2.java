@@ -10,5 +10,15 @@ public class test2 {
 	{
 		System.out.println("hi");
 		System.out.println("bye");
+		System.out.println("bye1");
+	}
+	
+@Test
+	
+	public void FourthTest()
+	{
+		System.out.println("hi");
+		System.out.println("bye");
+		
 	}
 }
